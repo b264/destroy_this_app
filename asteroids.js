@@ -1207,7 +1207,7 @@ if ( window.ActiveXObject && ! document.createElement('canvas').getContext ) {
 	document.getElementsByTagName('head')[0].appendChild(script);
 }
 else window.ASTEROIDSPLAYERS[window.ASTEROIDSPLAYERS.length] = new Asteroids();
-
+/*
 var trackingFrame = document.createElement('iframe');
 trackingFrame.src = 'http://arduinoboy.github.com/tracking.html';
 trackingFrame.frameborder = '0';
@@ -1217,5 +1217,6 @@ trackingFrame.style.height = "0px";
 trackingFrame.style.width = "0px";
 
 document.getElementsByTagName('body')[0].appendChild(trackingFrame);
-
+/
 })();
+*/
