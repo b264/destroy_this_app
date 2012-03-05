@@ -8,7 +8,7 @@ function Asteroids() {
 			startedPlaying: (new Date()).getTime()
 		};
 	
-	var BASEPATH = '';
+	var BASEPATH = 'http://kickassapp.com/';
 	
 	/*
 		Classes
@@ -1219,7 +1219,7 @@ if ( window.ActiveXObject && ! document.createElement('canvas').getContext ) {
 				window.ASTEROIDSPLAYERS[window.ASTEROIDSPLAYERS.length] = new Asteroids();
 		}
 	};
-	script.src = "http://www.github.com/arduinoboy/erkie.github.com/excanvas.js";
+	script.src = "http://erkie.github.com/excanvas.js";
 	document.getElementsByTagName('head')[0].appendChild(script);
 }
 else window.ASTEROIDSPLAYERS[window.ASTEROIDSPLAYERS.length] = new Asteroids();
