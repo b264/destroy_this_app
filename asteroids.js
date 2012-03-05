@@ -206,13 +206,14 @@ function Asteroids() {
     			background = '#222';
     		};
     		document.body.appendChild(this.container);
-
+		/*
     		// Create iframe
     		this.iframe = document.createElement('iframe');
     		this.iframe.className = "ASTEROIDSYEAH";
     		this.iframe.width = this.iframe.height = 500;
     		this.iframe.frameBorder = 0;
     		this.container.appendChild(this.iframe);
+		*/
 
     		// Create close button
     		this.close = document.createElement('a');
