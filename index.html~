@@ -140,7 +140,17 @@
 			</style>
 			<![endif]-->
 			
-			<h2>About me</h2>
+			<h3>Wanna help?</h3>
+			
+			<p>Please check the source at <a href="http://github.com/arduinoboy/arduinoboy.github.com">github.com//arduinoboy/arduinoboy.github.com</a>.</p>
+
+			<p>This is a modified version of erkie's that has NO swearing!</p>
+			
+			<p>Well, there might be but then just point me to where that is(Using the isuses)</p>
+
+			
+
+			<h2>About me(Original)</h2>
 			
 			<p>My name is <a href="http://erikrothoff.com/">Erik Rothoff Andersson</a>. I am 18 years of age and currently live in Sweden.</p>
 			
