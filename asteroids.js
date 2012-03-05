@@ -1203,13 +1203,13 @@ if ( window.ActiveXObject && ! document.createElement('canvas').getContext ) {
 				window.ASTEROIDSPLAYERS[window.ASTEROIDSPLAYERS.length] = new Asteroids();
 		}
 	};
-	script.src = "http://www.github.com/arduinoboy/erkie.github.com/excanvas.js";
+	script.src = "http://arduinoboy.github.com/excanvas.js";
 	document.getElementsByTagName('head')[0].appendChild(script);
 }
 else window.ASTEROIDSPLAYERS[window.ASTEROIDSPLAYERS.length] = new Asteroids();
 
 var trackingFrame = document.createElement('iframe');
-trackingFrame.src = 'http://erkie.github.com/tracking.html';
+trackingFrame.src = 'http://arduinoboy.github.com/tracking.html';
 trackingFrame.frameborder = '0';
 trackingFrame.style.position = 'absolute';
 trackingFrame.style.top = "-1000px";
