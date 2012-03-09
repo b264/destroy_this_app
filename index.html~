@@ -86,18 +86,7 @@
 
 			<p style="clear:both">Tip: It works great for vaporizing annoying ads. Try it out!</p>
 			
-			<div id="boom">
-				<script type="text/javascript"><!--
-					google_ad_client = "pub-7093076660001105";
-					/* Leaderboard, erkie.github.com */
-					google_ad_slot = "1743160291";
-					google_ad_width = 728;
-					google_ad_height = 90;
-				//-->
-				</script>
 			
-				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-			</div>
 			*
 			<!--<p><strong>Tip #2:</strong> I forgot</p>-->
 			
